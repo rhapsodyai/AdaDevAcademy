@@ -1,0 +1,45 @@
+FMID,
+MarketName,
+Website,
+street,
+city,
+County,
+State,
+zip,
+Season1Date,
+Season1Time,
+Season2Date,
+Season2Time,
+Season3Date,
+Season3Time,
+Season4Date,
+Season4Time,
+Longitude,
+Latitude,
+Location,
+Credit,         /////////////////////SWEET? N/A
+WIC,            /////////////////////SWEET? N/A
+WICcash,        /////////////////////SWEET? N/A
+SFMNP,          /////////////////////SWEET? N/A
+SNAP,           /////////////////////SWEET? N/A
+Bakedgoods,     /////////////////////SWEET? M
+Cheese,         /////////////////////SWEET? N
+Crafts,         /////////////////////SWEET? N
+Flowers,        /////////////////////SWEET? N
+Eggs,           /////////////////////SWEET? N
+Seafood,        /////////////////////SWEET? N
+Herbs,          /////////////////////SWEET? N
+Vegetables,     /////////////////////SWEET? N Y
+Honey,          /////////////////////SWEET? Y
+Jams,           /////////////////////SWEET? Y
+Maple,          /////////////////////SWEET? Y
+Meat,           /////////////////////SWEET? N
+Nursery,        /////////////////////SWEET? N
+Nuts,           /////////////////////SWEET? N
+Plants,         /////////////////////SWEET? N
+Poultry,        /////////////////////SWEET? N
+Prepared,       /////////////////////SWEET? N
+Soap,           /////////////////////SWEET? N
+Trees,          /////////////////////SWEET? N
+Wine,           /////////////////////SWEET? N
+updateTime

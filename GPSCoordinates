@@ -1,0 +1,25 @@
+Montana Moment (Upper Rockies)
+Lat Long
+(48.917686, -114.345703) 
+Dip in Texas (Lower Rockies)
+Lat Long
+(28.953679, -103.359375)
+GPS Coordinates
+
+(-114.345703 - -103.359375)/(48.917686 - 28.953679) = -0.550306
+y-28.953679 = -0.550306(x-48.917686)
+y + 0.55x = 55.8734
+
+Deco Boco Minnesota (Upper Mississippi)
+Lat Long
+(49.372834, -95.009766)
+New Orleans Triangles (Lower Mississippi)
+Lat Long
+(29.139366, -91.494141) 
+
+
+(-95.009766 - -91.494141)/(49.372834 - 29.139366) = -0.17375296217
+y-29.139366 = -0.17375296217 (x-49.372834)
+y-29.139366 = -0.174x+8.579
+y = -0.174x + 37.72
+y + -0.174x = 37.72
